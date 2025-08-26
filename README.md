@@ -1,4 +1,5 @@
 Chatbot em Python
+
 📌 Objetivo
 
 Este projeto tem como objetivo implementar um chatbot simples em Python, permitindo interações automáticas com o usuário através do console. A aplicação demonstra como estruturar diálogos, processar entradas e gerar respostas de forma organizada e reutilizável.
